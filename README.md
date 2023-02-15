@@ -1,5 +1,8 @@
 # React / Next.js / TypeScript / Recoil Standard Project Template
 
+## Introduction
+
+This is a template project that can be used to create a basic application that uses Next.js / React / Typescript / Recoil / PostgreSQL. This project is intended to "just works" using Docker and docker compose locally to build and run things. Below you will find way too many notes on how I set things up. Enjoy!
 
 ## Development Notes
 
